@@ -1,0 +1,157 @@
+.head{
+color: cornsilk;
+}
+.alert-primary{
+    background-color:#6089D5;
+    color:#fff;
+    font-size: 15px;
+    max-width: 1330px;
+    min-width: 300px;
+    flex-wrap: wrap;
+
+  }
+  .btn-default{
+      
+    float: right;
+    background-color: white;
+    color: black;
+    position: absolute;
+    top: 10px;
+    right: 305px;
+   margin-left: 10px;
+   border: 1px solid black;
+   width: 100px;
+   height: 30px;
+   font-size: 13px;
+   flex-wrap: wrap;
+
+  
+  }
+  
+  .btn-default1{
+      
+    float: right;
+    background-color: white;
+    color: black;
+    position: absolute;
+    top: 10px;
+    right: 200px;
+   margin-left: 10px;
+   border: 1px solid black;
+   width: 100px;
+   height: 30px;
+   font-size: 13px;
+flex-wrap: wrap;
+  }
+   
+  
+   .btn-default2{
+      
+    float: right;
+    background-color: white;
+    color: black;
+    position: absolute;
+    top: 10px;
+    right: 95px;
+   margin-left: 5px;
+   border: 1px solid black;
+   width: 100px;
+   height: 30px;
+   font-size: 13px;
+flex-wrap: wrap;
+  }
+
+.main{
+    position: absolute;
+top: 10px;
+left: 200px;
+margin-right: 500px;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+
+
+
+.facebook{
+    width: 20px;
+    height: 20px;
+    
+
+}
+
+.twitter{
+    width: 20px;
+    height: 20px;
+}
+.insta{
+    width: 20px;
+    height: 20px;
+}
+.youtube{
+    width: 20px;
+    height: 20px;
+}
+.whatsapp{
+    width: 20px;
+    height: 20px;
+}
+
+
+.logo{
+    position: absolute;
+    left: 200px;
+  
+    top: 50px;
+
+  
+
+
+
+<style style="text/css">
+div.slide-left {
+  width:200px;
+  overflow:hidden;
+  
+  
+}
+div.slide-left p {
+  animation: slide-left 30s;
+  background-color: cornflowerblue;
+}
+
+@keyframes slide-left {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+    background-color: cornflowerblue;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 300%;
+    background-color: cornflowerblue;
+  }
+}
+</style>
+
+
+<div class="slide-left">
+<p>CSS slide-in text...</p>
+</div>
+
+}
+.button{
+  
+  border-radius: 100px;
+position: absolute;
+right: 100px;
+top: 70px;
+
+}
+
+h4{
+  font-size: 30px;
+  
+}
+
